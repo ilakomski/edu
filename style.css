@@ -1,0 +1,33 @@
+body {
+    background: #eee;
+    margin: 0 20%;
+    }
+    
+    .top {
+    background: #cccccc;
+    border: 3px dashed #000000;
+    border-radius: 10px;
+    padding: 30px;
+    margin: 20px 0px;
+    text-align: center;
+    }
+    
+    .menu, .footer {
+    background: #cccccc;
+    border: 7px hidden #acacac;
+    border-radius: 7px;
+    padding: 10px;
+    text-align: center;
+    }
+    
+    a {
+    color: #4e25df;
+    font-size: 18px;
+    font-weight: bold;
+    }
+    
+    b {
+        color: #ffffff;
+        font-size: 18px;
+        font-weight: bold;
+        }
